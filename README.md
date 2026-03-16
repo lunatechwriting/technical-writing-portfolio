@@ -28,7 +28,7 @@ This repository showcases my technical writing work. The documents mainly focus 
 **Description:**
 This document explains how to safely operate a paper shredder to destroy documents containing confidential information. It includes safety precautions, basic machine features, parts and functions, operating instructions, and maintenance guidelines.
 
-👉 [View Document](./paper-shredder-guide.md)
+👉 [View Document](./How to use a paper shredder to cut paper into stripes.pdf)
 
 
 
