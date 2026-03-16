@@ -36,7 +36,7 @@ This document explains how to safely operate a paper shredder to destroy documen
 
 **Description:** This document explains how to efficiently schedule and manage meetings in Microsoft Outlook. It covers creating meeting requests via shortcuts, using the Scheduler Assistant to coordinate participant schedules, adding attachments, and instructions for both meeting initiators and participants to update or forward existing meetings.  
 
-👉 [How to Arrange a Meeting on Outlook.pdf](https://www.google.com/search?q=https://github.com/lunatechwriting/technical-writing-portfolio/blob/main/How%2520to%2520Arrange%2520a%2520Meeting%2520on%2520Outlook.pdf)
+👉 [[How to Arrange a Meeting on Outlook.pdf](https://www.google.com/search?q=https://github.com/lunatechwriting/technical-writing-portfolio/blob/main/How%2520to%2520Arrange%2520a%2520Meeting%2520on%2520Outlook.pdf)](https://github.com/lunatechwriting/technical-writing-portfolio/blob/main/How%20to%20Arrange%20a%20Meeting%20on%20Outlook.pdf)
 
 ---
 
