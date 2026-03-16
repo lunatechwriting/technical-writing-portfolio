@@ -14,7 +14,6 @@ This repository showcases my technical writing work. The documents mainly focus 
 * Software user guide creation
 * Information structuring and content organization
 * Markdown documentation
-* Technical content comprehension and translation
 
 ---
 
@@ -30,7 +29,16 @@ This document explains how to safely operate a paper shredder to destroy documen
 
 👉 [(How to use a paper shredder to cut paper into stripes.pdf)](https://github.com/lunatechwriting/technical-writing-portfolio/blob/main/How%20to%20use%20a%20paper%20shredder%20to%20cut%20paper%20into%20stripes.pdf)
 
+### 2. How to Arrange a Meeting on Outlook
 
+**Document Type:** Software Operation Guide
+**Target Audience:** Office Users / Beginners  
+
+**Description:** This document explains how to efficiently schedule and manage meetings in Microsoft Outlook. It covers creating meeting requests via shortcuts, using the Scheduler Assistant to coordinate participant schedules, adding attachments, and instructions for both meeting initiators and participants to update or forward existing meetings.  
+
+👉 [How to Arrange a Meeting on Outlook.pdf](https://www.google.com/search?q=https://github.com/lunatechwriting/technical-writing-portfolio/blob/main/How%2520to%2520Arrange%2520a%2520Meeting%2520on%2520Outlook.pdf)
+
+---
 
 ---
 
