@@ -1,15 +1,38 @@
 # technical-writing-portfolio
-技术文档写作作品集（Technical Writing Portfolio）
-## 作者说明
-本仓库用于展示本人技术文档写作能力，内容以软件操作指南和基础技术文档为主。
+
+Technical Writing Portfolio
+
+## About the Author
+
+This repository showcases my technical writing work. The documents mainly focus on software user guides and basic technical documentation. The goal is to present clear, structured, and easy-to-follow instructions for users.
+
 ---
-## 文档目录
-### 1. 如何在 Outlook 安排会议
-**文档类型**：软件操作指南 
-**目标读者**：初学者 / 办公用户 
-**内容简介**： 
-介绍如何使用 Microsoft Outlook 创建会议、邀请与会者、设置时间和发送会议邀请。
-👉 [查看文档](./outlook-meeting-guide.md)
+
+## Skills
+
+* Technical documentation writing
+* Software user guide creation
+* Information structuring and content organization
+* Markdown documentation
+* Technical content comprehension and translation
+
 ---
-## 联系方式
-- GitHub: lunatechwriting
+
+## Document List
+
+### 1. How to Schedule a Meeting in Outlook
+
+**Document Type:** Software User Guide
+**Target Audience:** Beginners / Office Users
+
+**Description:**
+This document explains how to create a meeting in Microsoft Outlook, invite participants, set the meeting time, and send the invitation.
+
+👉 [View Document](./outlook-meeting-guide.md)
+
+---
+
+## Contact
+
+* GitHub: lunatechwriting
+
