@@ -20,15 +20,17 @@ This repository showcases my technical writing work. The documents mainly focus 
 
 ## Document List
 
-### 1. How to Schedule a Meeting in Outlook
+### 1. How to Use a Paper Shredder to Cut Paper into Strips
 
-**Document Type:** Software User Guide
-**Target Audience:** Beginners / Office Users
+**Document Type:** Equipment Operation Guide
+**Target Audience:** Office Users / Beginners
 
 **Description:**
-This document explains how to create a meeting in Microsoft Outlook, invite participants, set the meeting time, and send the invitation.
+This document explains how to safely operate a paper shredder to destroy documents containing confidential information. It includes safety precautions, basic machine features, parts and functions, operating instructions, and maintenance guidelines.
 
-👉 [View Document](./outlook-meeting-guide.md)
+👉 [View Document](./paper-shredder-guide.md)
+
+
 
 ---
 
